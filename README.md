@@ -17,6 +17,7 @@ The application runs on `https://localhost:7161` and provides the following endp
 - `GET /api/Movie/Movies?PageNumber=1&PageSize=1`: Fetches a list of movies, the PageNumber and PageSize query parameters are optional
 - `POST /api/Movie`: Creates a movie.
 - `PUT /api/Movie`: Updates a movie.
+- `DELETE /api/Movie`: Deletes a movie by passing the movie Id to the request body
 
 You can also access the swagger documentation with this URL `https://localhost:7161/swagger/index.html`
 
