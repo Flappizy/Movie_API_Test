@@ -48,10 +48,10 @@ public class FileManager : IFileManager
         switch (size)
         {
             case FileSize.KB:
-                flag = fileSize < kilobyte;
+                flag = fileSize <= kilobyte;
                 break;
             case FileSize.MB:
-                flag = fileSize < megabyte;
+                flag = fileSize <= megabyte;
                 break;
             default:
                 break;
