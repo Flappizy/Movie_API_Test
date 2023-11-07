@@ -1,0 +1,14 @@
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.AssemblyInfoInputs.cache
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.AssemblyInfo.cs
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.csproj.CoreCompileInputs.cache
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.csproj.AssemblyReference.cache
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\bin\Debug\net7.0\Soft_Alliance.APP.deps.json
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\bin\Debug\net7.0\Soft_Alliance.APP.dll
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\bin\Debug\net7.0\Soft_Alliance.APP.pdb
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.dll
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\refint\Soft_Alliance.APP.dll
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.pdb
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\ref\Soft_Alliance.APP.dll
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\bin\Debug\net7.0\Soft_Alliance.APP.runtimeconfig.json
+C:\Users\babat\Source\Repos\Soft_Alliance\src\Soft_Alliance.APP\obj\Debug\net7.0\Soft_Alliance.APP.genruntimeconfig.cache
